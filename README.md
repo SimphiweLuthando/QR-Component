@@ -1,7 +1,7 @@
 # QR Code Component
 This is a simple modern QR Code component that will take you to frontendmentor's website.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://qr-component-sigma.vercel.app/
 
 ![The Design](desktop-design.jpg)
 
